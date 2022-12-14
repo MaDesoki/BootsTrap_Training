@@ -169,3 +169,37 @@ body {
 #pricing .row{
     margin-top: 5%;
 }
+
+/* Call to Action Section */
+#cta {
+    background-color: #ff4c68;
+    padding: 5% 15%;
+}
+
+#cta h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    color: white;
+    line-height: 1.5;
+    margin-bottom: 3%;
+}
+
+#cta .btn{
+    margin: 10px;
+}
+
+/* Footer Section */
+#footer {
+    background-color: white;
+    padding: 5% 15%;
+}
+
+#footer i{
+    margin: 20px;
+}
+
+#footer p{
+    color: gray;
+    margin-top: 15px;
+}
