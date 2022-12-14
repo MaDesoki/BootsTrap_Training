@@ -48,7 +48,8 @@ body {
 
 .title-img {
     width: 60%;
-    transform: rotate(25deg)
+    transform: rotate(25deg);
+    padding: 5%;
 }
 
 #features {
