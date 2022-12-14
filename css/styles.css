@@ -1,0 +1,153 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.Home-iphone{
+    text-align: center;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+}
+
+.nav-item {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+#website-description {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+#title {
+    padding: 3% 15%;
+}
+
+.apple-dn-btn, .google-dn-btn {
+ margin: 5% 3% 5% 0;
+}
+
+.title-img {
+    width: 60%;
+    transform: rotate(25deg)
+}
+
+#features {
+    text-align: center;
+    padding: 10% 15%;
+}
+
+#features h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+    padding-top: 5%;
+}
+
+#features i{
+    color: #ef8172;
+}
+
+#features i:hover{
+    color: #ff4c68;
+}
+
+#features p{
+    color: #8f8f8f;
+    padding:0 15%;
+}
+
+/* testimonials Section */
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+#testimonials h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#testimonials em{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+#testimonials img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#testimonials .col{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#testimonials .carousel-item{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+/* #testimonials .carousel-item{
+    height: 500px;
+} */
+
+/* Press Section */
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+#press img{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 5%;
+    text-align: center;
+}
+
+#pricing .btn{
+    width: 100%;
+}
+
+#pricing h2,h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+#pricing h3{
+    font-size: 1.2rem;
+}
+
+#pricing .row{
+    margin-top: 5%;
+}
