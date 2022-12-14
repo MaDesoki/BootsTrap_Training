@@ -8,11 +8,7 @@ body {
 }
 
 .navbar {
-    /* padding-bottom: 4.5rem; */
-}
-
-.Home-iphone{
-    text-align: center;
+    padding-bottom: 5%;
 }
 
 .navbar-brand {
@@ -43,18 +39,24 @@ body {
 }
 
 .apple-dn-btn, .google-dn-btn {
- margin: 5% 3% 5% 0;
+ /* margin: 5% 3% 5% 0; */
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .title-img {
     width: 60%;
     transform: rotate(25deg);
-    padding: 5%;
+    padding: 10%;
+    /* z-index: -1; */
+    /* position: absolute; */
 }
 
 #features {
     text-align: center;
     padding: 10% 15%;
+    position: relative;
+    background-color: white;
 }
 
 #features h3{
